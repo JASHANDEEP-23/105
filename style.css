@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(235, 217, 135);
+}
+#camera{
+    width: 400px;
+    height: 350px;
+    border: 8px dotted rgb(180, 70, 81);
+}
+.objects{
+    font-size: 22px;
+color: maroon;
+font-weight: 900;
+}
+.heading{
+font-weight: bold;
+text-shadow: 2px 2px rgb(0, 0, 255);
+}
